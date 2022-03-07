@@ -1,3 +1,8 @@
 console.log('Hello world')
 
-console.log('HeaderR)0')
+const userAge = 34
+if (userAge >= 18) {
+  console.log('Вы совершеннолетний')
+} else {
+  console.log('Вы не совершеннолетний')
+}
